@@ -70,13 +70,13 @@ DrumKitProject/
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/TahaAhmet/Drum-Kit.git
+  git clone https://github.com/TahaAhmet/DrumKitProject.git
   ```
 
 2. Navigate to the project folder:
 
   ```bash
-  cd Drum-Kit
+  cd DrumKitProject
   ```
 
 3. Open index.html in your browser and start drumming 🥁
