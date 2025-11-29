@@ -29,7 +29,7 @@ The page features:
 ## 📂 Project Structure
 
 ```
-Drum-Kit/
+DrumKitProject/
 │── index.html          # Main HTML structure
 │── styles.css          # Custom CSS styles (themes, layout)
 │── index.js            # JavaScript logic for sounds, themes, and controls
